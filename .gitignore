@@ -3,6 +3,7 @@
 # dependencies
 node_modules/
 
+.sh
 # Expo
 .expo/
 dist/
